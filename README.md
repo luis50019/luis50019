@@ -10,7 +10,10 @@
 <p width="50">🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres, principalmente por las noches.</p>
 <p witfh="50">💻 Me interesa tanto el desarrollo web.</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-    
+<br>
+<br>
+<br>
+<br>
 <div align="center" width="50">
   <h1>Stack</h1>
   
