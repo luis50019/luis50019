@@ -84,7 +84,7 @@
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAF"
     width="60px"
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
