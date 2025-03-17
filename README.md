@@ -35,9 +35,8 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  </a> </p>
 
 <br>
-## 📖 About me
-
-* 🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres, principalmente por las noches.
-* 💻 Me interesa tanto el desarrollo web.
+<h2>📖 About me</h2>
+<p>🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres, principalmente por las noches.</p>
+<p>💻 Me interesa tanto el desarrollo web.</p>
   
 
