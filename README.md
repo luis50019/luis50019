@@ -19,21 +19,14 @@
 <p>&nbsp;</p>
 - 🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres <br>
 - 👩‍💻 Me gusta aprendar cosas nuevas <br>
-- 💻 Estudio por mi cuenta por las noches.
-- 🤝 me gusta trabajar en equipo
+- 💻 Estudio por mi cuenta por las noches.<br>
+- 🤝 me gusta trabajar en equipo<br>
 - 👨‍💻 Todos mis proyectos disponibles en [Github](https://github.com/luis50019)
 
 <p>&nbsp;</p>
     
   </samp>
 </div>   
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <div align="center" width="50">
   <h1>Stack</h1>
