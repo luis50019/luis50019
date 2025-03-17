@@ -7,8 +7,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Yo+soy+Luis+Angel+Diaz+Dia" alt="Headline" />
     </div>
 <h2 width="50">📖 Acerca de mi</h2>
-<span width="50px">🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres, principalmente por las noches.</span>
-<p witfh="50">💻 Me interesa tanto el desarrollo web.</p>
+<span width="50px">🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres</span>
+<p witfh="50">💻 Estudio por mi cuenta por las noches.</p>
+<p>👩‍💻 Me gusta aprendar cosas nuevas</p>
+<p>🤝 me gusta trabajar en equipo</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
 <br>
