@@ -4,7 +4,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I+am+Luis+Angel+Diaz+Dia;I+am+Develop+Web" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Yo+soy+Luis+Angel+Diaz+Dia" alt="Headline" />
     </div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -35,3 +35,9 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  </a> </p>
 
 <br>
+## 📖 About me
+
+* 🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres, principalmente por las noches.
+* 💻 Me interesa tanto el desarrollo web.
+  
+
