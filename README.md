@@ -27,28 +27,23 @@
   <!-- Languages -->
   <h3>Languages</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    width="60px"
+    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+    width="100px"
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
-    width="60px"
-    alt="Groovy">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="60px"
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+    width="100px"
     alt="Javascript">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="60px"
+    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+    width="100px"
     alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="60px"
+    width="100px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -60,15 +55,10 @@
     width="60px"
     alt="Spring (Spring-boot)">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
+<img 
+    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    width="100px"
+    alt="tailwindcss">
     &nbsp;&nbsp;&nbsp;
 
   </br>
