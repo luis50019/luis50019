@@ -17,8 +17,8 @@
   <samp>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-- 🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres
-- 👩‍💻 Me gusta aprendar cosas nuevas
+- 🎓 Soy estudiante de Licenciatura en Informática y tengo 21 años. Me apasiona la programación y desarrollo proyectos en mis tiempos libres <br>
+- 👩‍💻 Me gusta aprendar cosas nuevas <br>
 - 💻 Estudio por mi cuenta por las noches.
 - 🤝 me gusta trabajar en equipo
 - 👨‍💻 Todos mis proyectos disponibles en [Github](https://github.com/luis50019)
