@@ -6,12 +6,6 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Yo+soy+Luis+Angel+Diaz+Dia" alt="Headline" />
     </div>
-
-
-
-
-
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div align="left">
   <samp>
