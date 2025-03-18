@@ -83,6 +83,11 @@
     width="60px"
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+    src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"
+    width="100px"
+    alt="chatjs">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
