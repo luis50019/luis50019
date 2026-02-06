@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Sobre mí
-Estudiante de **Licenciatura en Informática** (8º semestre, NovaUniversitas).  
+Estudiante de **Licenciatura en Informática** (8º semestre, NovaUniversitas), nivel de ingles B1.  
 Apasionado por **React Native** y desarrollo fullstack ligero. Me enfoco en entregar soluciones prácticas: apps móviles que gente usa de verdad, no solo prototipos.
 
 - 🔭 Actualmente trabajando en **Plataforma de Mototaxis** (app colaborativa con React Native + .NET + RabbitMQ para microservicios).  
