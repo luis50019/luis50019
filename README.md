@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Luis Ángel Díaz Díaz</h1>
 
-<h3 align="center">Desarrollador Frontend / React Native Junior | Creando apps móviles y web que resuelven problemas reales en Oaxaca 🇲🇽</h3>
+<h3 align="center">Desarrollador Frontend / React Native Junior</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luis50019&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="profile-views" />
