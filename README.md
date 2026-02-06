@@ -32,12 +32,7 @@ Apasionado por **React Native** y desarrollo fullstack ligero. Me enfoco en entr
 Aquí lo que más orgullo me da (pinéalos en tu perfil para que se vean primero):
 
 1. **Sistema de Gestión para Bonetería** (App en uso real – Enero 2025 → presente)  
-   App móvil **React Native** (Expo) + backend para control de inventario, ventas y productos.  
-   - Redujo tiempo de venta de ~8 min a ~2 min por cliente.  
-   - +300 productos, +50 ventas diarias promedio.  
-   - Frontend: [github.com/luis50019/Inventario-Boneteria](https://github.com/luis50019/Inventario-Boneteria)  
-   - Backend: [github.com/luis50019/backEndAppBoneteriaC](https://github.com/luis50019/backEndAppBoneteriaC)  
-   - Demo live: [https://inventario-boneteria.vercel.app](https://inventario-boneteria.vercel.app) (web version – mobile en Expo Go)  
+   App móvil **React Native** (Expo) + backend para control de inventario, ventas y productos.   
 
 2. **Plataforma de Mototaxis** (Colaborativo 2025 → presente)  
    Coordiné tareas, revisé PRs. Interfaces **React Native** + backend **.NET** con **RabbitMQ** para colas de pedidos/ubicaciones.  
