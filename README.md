@@ -71,5 +71,3 @@ Aquí lo que más orgullo me da (pinéalos en tu perfil para que se vean primero
   <a href="mailto:teddiazdiaz019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Agrega Twitter/Dev.to si usas -->
 </p>
-
-¡Gracias por visitar! Si te gusta lo que hago o quieres colaborar en mototaxis/bonetería, mándame mensaje. ¡Vamos a codear! 🚀
