@@ -36,7 +36,7 @@ Aquí lo que más orgullo me da (pinéalos en tu perfil para que se vean primero
 
 2. **Plataforma de Mototaxis** (Colaborativo 2025 → presente)  
    Coordiné tareas, revisé PRs. Interfaces **React Native** + backend **.NET** con **RabbitMQ** para colas de pedidos/ubicaciones.  
-   Repo: (en desarrollo – contáctame para demo o acceso)
+   Repo: (en desarrollo)
 
 3. **Otros** → Ver todos en [Mis Repos](https://github.com/luis50019?tab=repositories)
 
