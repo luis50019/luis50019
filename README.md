@@ -19,8 +19,8 @@ Estudiante de **Licenciatura en Informática** (8º semestre, NovaUniversitas), 
 Apasionado por **React Native** y desarrollo fullstack ligero. Me enfoco en entregar soluciones prácticas: apps móviles que gente usa de verdad, no solo prototipos.
 
 - 🔭 Actualmente trabajando en **Plataforma de Mototaxis** (app colaborativa con React Native + .NET + RabbitMQ para microservicios).  
-- 🌱 Aprendiendo **microservicios**, **TypeScript avanzado** y **optimizaciones en React Native** (Expo, offline-first).  
-- 💼 Tengo experiencia real: desarrollé e implementé una app de gestión de inventario/ventas para una bonetería local en producción → redujo tiempos de venta y maneja +300 productos.  
+- 🌱 Aprendiendo **microservicios**, **TypeScript** y **React Native** (Expo).  
+- 💼 Tengo experiencia real: desarrollé e implementé una app de gestión de inventario/ventas para una bonetería local en producción.
 - 📈 Colaboré en proyectos presentados en el **5.º Congreso Internacional de Gobierno Electrónico** (ALEPAY y Sistema de Pagos Municipales).  
 - ⚡ Fun fact: Soy de Ocotlán de Morelos, Oaxaca – me encanta el equipo, la empatía y resolver pedos reales con código.
 
