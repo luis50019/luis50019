@@ -22,7 +22,7 @@ Apasionado por **React Native** y desarrollo fullstack ligero. Me enfoco en entr
 - 🌱 Aprendiendo **microservicios**, **TypeScript** y **React Native** (Expo).  
 - 💼 Tengo experiencia real: desarrollé e implementé una app de gestión de inventario/ventas para una bonetería local en producción.
 - 📈 Colaboré en proyectos presentados en el **5.º Congreso Internacional de Gobierno Electrónico** (ALEPAY y Sistema de Pagos Municipales).  
-- ⚡ Fun fact: Soy de Ocotlán de Morelos, Oaxaca – me encanta el equipo, la empatía y resolver pedos reales con código.
+- ⚡ Fun fact: Soy de Ocotlán de Morelos, Oaxaca – me encanta el equipo, la empatía y resolver problemas reales con código.
 
 ¡Pregúntame sobre **React Native**, Expo, APIs REST o cómo deployar apps móviles rápido!
 
