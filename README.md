@@ -48,18 +48,16 @@
 
 ## About
 
-I am a software engineer focused on designing and delivering scalable, maintainable, and production-oriented applications. My work spans **full-stack development, backend architecture, cloud-native infrastructure, DevOps practices, database design, and AI-enabled software solutions**.
+I am a software engineer focused on designing and delivering scalable, maintainable, and production-oriented applications. My work spans **full-stack development, backend architecture, DevOps practices, database design**.
 
 I approach engineering as a product discipline: understanding requirements, modeling reliable systems, making thoughtful technical trade-offs, and delivering solutions that provide measurable value. I enjoy working across the complete software lifecycle—from architecture and implementation to deployment, observability, security, and continuous improvement.
 
-My technical interests include **distributed systems, multi-tenant SaaS platforms, containerized applications, Kubernetes, cloud infrastructure, machine learning integration, and developer experience**. I value clean architecture, strong typing, automation, testing, documentation, and pragmatic engineering decisions.
+My technical interests include **containerized applications, Kubernetes, cloud infrastructure, machine learning integration, and developer experience**. I value clean architecture, strong typing, automation, testing, documentation, and pragmatic engineering decisions.
 
 ### Open To
 
 - Software Engineering and Full-Stack Development opportunities
-- Backend, Platform, Cloud, and DevOps engineering roles
-- AI/ML-enabled product development
-- Open-source collaboration and technical communities
+- Backend, Platform, Cloud, and DevOps engineering role
 - High-impact engineering teams building scalable products
 
 ---
@@ -69,63 +67,28 @@ My technical interests include **distributed systems, multi-tenant SaaS platform
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,sql,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c#,css,php,sql,bash&theme=dark" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,html,css,tailwind,vite&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind,vite&theme=dark" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,dotnet,postgres,mysql,mongodb,prisma&theme=dark" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,postgres,mysql,mongodb,prisma&theme=dark" alt="Backend and Databases" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,nginx,aws,vercel,postman&theme=dark" alt="Cloud DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,nginx,vercel,postman&theme=dark" alt="Cloud DevOps and Tooling" />
 </p>
 
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning Fundamentals | **Intermediate** | Supervised learning, model evaluation, feature engineering, and practical experimentation |
-| AI-Enabled Applications | **Intermediate** | Integrating AI capabilities into full-stack products and production workflows |
-| Data Processing | **Intermediate** | Data preparation, transformation, validation, and structured analysis |
-| Intelligent Product Design | **Advanced** | Applying AI capabilities to solve product and business problems |
-| AI Systems Integration | **Intermediate** | API-based AI services, automation, backend integration, and scalable application architecture |
-| MLOps Foundations | **Foundational** | Reproducibility, deployment concepts, monitoring, and lifecycle awareness |
-
----
-
 ## Featured Projects
-
-<details>
-<summary><b>Operix — Multi-Tenant Repair Shop SaaS</b></summary>
-
-<br/>
-
-A multi-tenant SaaS platform designed to modernize repair-shop operations through centralized customer management, device intake, repair workflows, inventory control, role-based access, and operational reporting. The architecture prioritizes tenant isolation, maintainability, and scalable deployment.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | TypeScript, Node.js, React, PostgreSQL, Prisma, Docker |
-| **Scale** | Multi-tenant architecture designed for independent business workspaces |
-| **Performance** | Indexed relational queries and efficient API-oriented data access |
-| **Security** | Authentication, authorization, tenant-aware data isolation, and secure password handling |
-| **Impact** | Replaces fragmented manual workflows with a centralized operational platform |
-| **Repository** | [View Repository](https://github.com/luisdiaz04) |
-
-**Engineering Focus:** Domain modeling, tenant isolation, modular backend design, inventory consistency, secure authentication, and containerized deployment.
-
-</details>
 
 <details>
 <summary><b>Bonetería Sofy — Inventory & Sales Management Platform</b></summary>
@@ -136,7 +99,7 @@ A full-stack inventory and sales system built to improve product control, stock 
 
 | Category | Details |
 |:---|:---|
-| **Stack** | React, Vite, Tailwind CSS, Node.js, Express, MongoDB |
+| **Stack** | React-Native, Vite, Tailwind CSS, Node.js, Express, MongoDB |
 | **Scale** | Designed for daily inventory operations and business reporting |
 | **Performance** | Efficient API queries and client-side state management |
 | **Security** | JWT authentication, protected routes, password hashing, and role-aware access |
@@ -144,26 +107,6 @@ A full-stack inventory and sales system built to improve product control, stock 
 | **Repository** | [View Repository](https://github.com/luisdiaz04) |
 
 **Engineering Focus:** REST API design, inventory lifecycle management, authentication, analytics dashboards, and responsive user experience.
-
-</details>
-
-<details>
-<summary><b>Streaming & Digital Radio Platform</b></summary>
-
-<br/>
-
-A web-based live broadcasting platform designed to support video streaming, radio programming, audience interaction, and background audio playback across desktop and mobile devices.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | React, JavaScript, Vimeo, OBS, HLS.js, Supabase Realtime |
-| **Scale** | Designed for live broadcasts with concurrent audiences |
-| **Performance** | Adaptive streaming and efficient browser-based media playback |
-| **Security** | Controlled streaming access and secure platform integrations |
-| **Impact** | Extends live programming beyond social networks through an independent web platform |
-| **Repository** | [View Repository](https://github.com/luisdiaz04) |
-
-**Engineering Focus:** Live media delivery, HLS playback, real-time interaction, mobile background audio, streaming reliability, and operational monitoring.
 
 </details>
 
@@ -224,9 +167,7 @@ Designing and delivering full-stack applications with a focus on scalable archit
 - Architect and implement RESTful APIs using Node.js, Express, TypeScript, and modern backend patterns.
 - Build responsive, accessible, and maintainable interfaces using React, Vue, Astro, Vite, and Tailwind CSS.
 - Design relational and document-oriented data models using PostgreSQL, MySQL, MongoDB, Prisma, and Mongoose.
-- Develop multi-tenant SaaS concepts with tenant isolation, authentication, authorization, and role-based access control.
 - Containerize applications with Docker and deploy workloads using Kubernetes, services, ingress, and CI/CD workflows.
-- Integrate real-time communication, media streaming, cloud services, and external APIs into production-oriented applications.
 - Apply engineering practices including version control, modular architecture, validation, documentation, and automated workflows.
 
 **Skills**
@@ -253,21 +194,9 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 ## Certifications
 
-### AWS
+### JS
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Foundations" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Software%20Engineering-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL Programming and Software Engineering" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Foundations-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Foundations" />
+<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
 
 ---
 
@@ -276,16 +205,7 @@ Designing and delivering full-stack applications with a focus on scalable archit
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-161B22?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-161B22?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-161B22?style=for-the-badge&logo=codechef&logoColor=5B4638" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/Codewars-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
 
 </div>
