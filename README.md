@@ -13,7 +13,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Sc._in_Computer_Science-Informatics-4338CA?style=flat-square&logo=academia&logoColor=white" alt="Academic Background" />
 <img src="https://img.shields.io/badge/Oaxaca%2C_Mexico-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Oaxaca, Mexico" />
 
 <br/><br/>
