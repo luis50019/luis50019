@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/Software_Engineer-312E81?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer" />
 <img src="https://img.shields.io/badge/Full--Stack_Developer-4F46E5?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Developer" />
-<img src="https://img.shields.io/badge/AI%2FML_Enthusiast-6D28D9?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML Enthusiast" />
 
 <br/><br/>
 
