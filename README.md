@@ -238,46 +238,22 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luisdiaz04&bg_color=0B1020&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=312E81&hide_border=true&radius=8" alt="GitHub Contribution Activity" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/luisdiaz04/luisdiaz04/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
 
 ## Current Focus
 
 ```yaml
 Learning:
   - Advanced system design
-  - Cloud-native architecture
   - Kubernetes and platform engineering
-  - Applied AI and machine learning
   - Distributed systems
 
 Building:
-  - Multi-tenant SaaS platforms
   - Scalable full-stack applications
   - Secure backend services
   - Cloud-ready deployment workflows
 
 Exploring:
-  - AI-enabled product engineering
   - MLOps foundations
-  - Event-driven architectures
   - Developer tooling and automation
 
 Open_To:
