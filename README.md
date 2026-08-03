@@ -17,23 +17,6 @@
     <img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
   </div>
 
-  <div>
-  <h3><code>./contributions.sh</code></h3>
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=luis50019&show_icons=trutheme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  alt="GitHub Statistics" />
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis50019&layout=compactheme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages" />
-
-<img
-  src="https://streak-stats.demolab.com?user=luis50019&theme=tokyonight&hide_border=trudate_format=j%20M%5B%20Y%5D"
-  alt="GitHub Streak" />
-  </div>
-
-</div>
-
 <br><br>
 
 ## Tech Stack
