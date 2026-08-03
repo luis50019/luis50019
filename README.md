@@ -1,30 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:312E81,70:6D28D9,100:8B5CF6&height=220&section=header&text=Luis%20%C3%81ngel%20D%C3%ADaz%20D%C3%ADaz&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%&Size=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:1E3A8A,60:2563EB,100:60A5FA&height=220&section=header&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+scalable%2C+reliable+software+systems;Full-Stack+Engineering+%7C+Cloud+%7C+DevOps;Designing+products+with+engineering+and+business+impact" alt="Typing SVG" />
-</a>
+<table>
+<tr>
+<td width="140" align="center">
+  <img src="./assets/astronaut.png" width="130" alt="Astronaut mascot" />
+</td>
+<td align="left">
+  <h1>Luis Ángel Díaz Díaz</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=false&vCenter=true&width=560&lines=Building+scalable%2C+reliable+software+systems;Full-Stack+Engineering+%7C+Cloud+%7C+DevOps;Designing+products+with+engineering+and+business+impact" alt="Typing SVG" />
+  </a>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software_Engineer-312E81?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer" />
-<img src="https://img.shields.io/badge/Full--Stack_Developer-4F46E5?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Developer" />
+<img src="https://img.shields.io/badge/Software_Engineer-1E3A8A?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer" />
+<img src="https://img.shields.io/badge/Full--Stack_Developer-2563EB?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Developer" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Oaxaca%2C_Mexico-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Oaxaca, Mexico" />
+<img src="https://img.shields.io/badge/Oaxaca%2C_Mexico-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="Oaxaca, Mexico" />
 
 <br/><br/>
 
 <a href="https://luisdiaz.dev">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=60A5FA" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/luis-angel-diaz-diaz">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" />
 </a>
 <a href="mailto:luisangel@example.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
 </a>
 <a href="https://github.com/luisdiaz04">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
@@ -32,12 +42,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=luisdiaz04&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=luisdiaz04&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
 <a href="https://github.com/luisdiaz04?tab=followers">
-  <img src="https://img.shields.io/github/followers/luisdiaz04?label=FOLLOWERS&style=flat-square&color=4F46E5&labelColor=111827" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/luisdiaz04?label=FOLLOWERS&style=flat-square&color=2563EB&labelColor=111827" alt="GitHub Followers" />
 </a>
 <a href="https://github.com/luisdiaz04?tab=repositories">
-  <img src="https://img.shields.io/github/stars/luisdiaz04?affiliations=OWNER&label=STARS&style=flat-square&color=7C3AED&labelColor=111827" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/luisdiaz04?affiliations=OWNER&label=STARS&style=flat-square&color=3B82F6&labelColor=111827" alt="GitHub Stars" />
 </a>
 
 </div>
@@ -46,16 +56,16 @@
 
 ## About
 
-I am a software engineer focused on designing and delivering scalable, maintainable, and production-oriented applications. My work spans **full-stack development, backend architecture, DevOps practices, database design**.
+I am a software engineer focused on designing and delivering scalable, maintainable, and production-oriented applications. My work spans **full-stack development, backend architecture, DevOps practices, and database design**.
 
-I approach engineering as a product discipline: understanding requirements, modeling reliable systems, making thoughtful technical trade-offs, and delivering solutions that provide measurable value. I enjoy working across the complete software lifecycle—from architecture and implementation to deployment, observability, security, and continuous improvement.
+I approach engineering as a product discipline: understanding requirements, modeling reliable systems, making thoughtful technical trade-offs, and delivering solutions that provide measurable value. I enjoy working across the complete software lifecycle — from architecture and implementation to deployment, observability, security, and continuous improvement.
 
 My technical interests include **containerized applications, Kubernetes, cloud infrastructure, machine learning integration, and developer experience**. I value clean architecture, strong typing, automation, testing, documentation, and pragmatic engineering decisions.
 
 ### Open To
 
 - Software Engineering and Full-Stack Development opportunities
-- Backend, Platform, Cloud, and DevOps engineering role
+- Backend, Platform, Cloud, and DevOps engineering roles
 - High-impact engineering teams building scalable products
 
 ---
@@ -85,6 +95,37 @@ My technical interests include **containerized applications, Kubernetes, cloud i
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,nginx,vercel,postman&theme=dark" alt="Cloud DevOps and Tooling" />
 </p>
+
+---
+
+## Terminal
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=%24+git+commit+-m+%22ship+it%22;%24+docker+build+-t+app+.;%24+kubectl+apply+-f+deployment.yaml;%24+npm+run+build+%26%26+deploy" alt="Terminal typing animation" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="./assets/ascii-animation.svg" width="360" alt="Animated ASCII art" />
+  <br/>
+  <sub>Compact, animated render of the astronaut ASCII art — see the full-resolution version below.</sub>
+</div>
+
+<details>
+<summary><b>Full-resolution ASCII art</b></summary>
+
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@..@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@-@@@@@@@@@@@@@@@@@@@@@@*=:...:=@@@@@@@@@@@@@@@@@@@@+@@@@@@@@@@@:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@*@@@@@@@@@*#@@@@=---=@@+-----------.:=:-@@@@@@@@@@@@@.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+   ... (full art trimmed for readability — see /assets/ascii-full.txt in this bundle) ...
+```
+
+</details>
+
+---
 
 ## Featured Projects
 
@@ -154,8 +195,8 @@ A containerized web application used to explore reproducible deployments, Kubern
 
 ### Software Engineering Projects & Independent Development
 
-**Full-Stack Software Engineer**  
-**Independent Projects & Academic Engineering**  
+**Full-Stack Software Engineer**
+**Independent Projects & Academic Engineering**
 **2023 — Present**
 
 Designing and delivering full-stack applications with a focus on scalable architecture, secure backend systems, modern user interfaces, cloud-native deployment, and practical business impact.
@@ -192,9 +233,9 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 ## Certifications
 
-### JS
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-2563EB?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
+</p>
 
 ---
 
@@ -203,7 +244,7 @@ Designing and delivering full-stack applications with a focus on scalable archit
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/Codewars-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=3B82F6" alt="LeetCode" />
 </a>
 
 </div>
@@ -214,13 +255,13 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisdiaz04&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisdiaz04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdiaz04&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdiaz04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=luisdiaz04&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=luisdiaz04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -230,12 +271,11 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=luisdiaz04&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=luisdiaz04&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
-
 
 ## Current Focus
 
@@ -260,3 +300,8 @@ Open_To:
   - Cloud and DevOps engineering
   - Open-source collaboration
   - High-impact product teams
+```
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:0B1020&height=120&section=footer" />
+</div>
