@@ -1,0 +1,35 @@
+<svg viewBox="0 0 490 288" width="490" height="288" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="JetBrains Mono, Consolas, monospace">
+  <defs>
+    <style>
+      .ln {
+        transform-box: fill-box;
+        animation: fadeUp 0.5s cubic-bezier(0.22,1,0.36,1) forwards;
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+  <rect width="490" height="288" rx="14" fill="#0B1020" />
+  <circle cx="30" cy="22" r="5" fill="#EF4444" />
+  <circle cx="50" cy="22" r="5" fill="#F59E0B" />
+  <circle cx="70" cy="22" r="5" fill="#22C55E" />
+  <text x="245" y="27" text-anchor="middle" font-size="13" font-weight="600" fill="#E2E8F0" letter-spacing="1">luis@github: ~/profile</text>
+  <line x1="14" y1="44.0" x2="476" y2="44.0" stroke="#1E3A8A" stroke-width="1" />
+  <text class="ln" x="24" y="70" font-size="14" font-weight="600" fill="#93C5FD" style="animation-delay:0.00s">User:</text>
+  <text class="ln" x="138" y="70" font-size="14" fill="#E2E8F0" style="animation-delay:0.15s">luisdiaz04</text>
+  <text class="ln" x="24" y="96" font-size="14" font-weight="600" fill="#93C5FD" style="animation-delay:0.30s">Name:</text>
+  <text class="ln" x="138" y="96" font-size="14" fill="#E2E8F0" style="animation-delay:0.45s">Luis Ángel Díaz Díaz</text>
+  <text class="ln" x="24" y="122" font-size="14" font-weight="600" fill="#93C5FD" style="animation-delay:0.60s">Role:</text>
+  <text class="ln" x="138" y="122" font-size="14" fill="#E2E8F0" style="animation-delay:0.75s">Software Engineer · Full-Stack</text>
+  <text class="ln" x="24" y="148" font-size="14" font-weight="600" fill="#93C5FD" style="animation-delay:0.90s">Location:</text>
+  <text class="ln" x="138" y="148" font-size="14" fill="#E2E8F0" style="animation-delay:1.05s">Oaxaca, Mexico</text>
+  <text class="ln" x="24" y="174" font-size="14" font-weight="600" fill="#93C5FD" style="animation-delay:1.20s">Stack:</text>
+  <text class="ln" x="138" y="174" font-size="14" fill="#E2E8F0" style="animation-delay:1.35s">TypeScript · JavaScript · React ·</text>
+  <text class="ln" x="138" y="196" font-size="14" fill="#E2E8F0" style="animation-delay:1.50s">Node.js · PostgreSQL · MongoDB · Docker</text>
+  <text class="ln" x="138" y="218" font-size="14" fill="#E2E8F0" style="animation-delay:1.65s">· Kubernetes · GitHub Actions</text>
+  <text class="ln" x="24" y="244" font-size="14" font-weight="600" fill="#93C5FD" style="animation-delay:1.80s">Focus:</text>
+  <text class="ln" x="138" y="244" font-size="14" fill="#E2E8F0" style="animation-delay:1.95s">REST APIs · System Design · Clean</text>
+  <text class="ln" x="138" y="266" font-size="14" fill="#E2E8F0" style="animation-delay:2.10s">Architecture · Cloud-Native</text>
+</svg>
