@@ -2,10 +2,16 @@
 """Generate assets/astronaut-ascii.svg from assets/astronaut.png.
 
 Renders the astronaut as a monochrome ASCII portrait where each row is
-revealed left-to-right with a staggered typing effect. All animation lives
-inside the SVG (CSS keyframes), so GitHub renders it without JavaScript.
+revealed left-to-right with a staggered typing effect.
+
+The animation uses SMIL (<animate>) only, NOT CSS keyframes or clipPath
+transforms: every row is a static <text> covered by a background-colored
+"curtain" <rect> whose x coordinate animates, exposing the row underneath.
+A small cursor block rides the reveal edge. SMIL is what GitHub reliably
+executes inside SVGs rendered via <img>.
 
 Re-run with:  python scripts/make_ascii_svg.py
+Preview static frame with:  STATIC=1 python scripts/make_ascii_svg.py
 """
 
 import os
@@ -57,7 +63,7 @@ def image_to_rows(path: str, cols: int) -> list[str]:
     return out
 
 
-def build_svg(rows: list[str]) -> str:
+def build_svg(rows: list[str], static: bool = False) -> str:
     rows_n = len(rows)
     text_w = COLS * CHAR_W
     view_w = text_w + 2 * MARGIN
@@ -78,36 +84,7 @@ def build_svg(rows: list[str]) -> str:
     parts.append("        white-space: pre;")
     parts.append("        text-anchor: start;")
     parts.append("      }")
-    parts.append("      .wipe {")
-    parts.append("        transform-box: fill-box;")
-    parts.append("        transform-origin: left center;")
-    parts.append(f"        animation: wipe {DURATION}s {EASING} forwards;")
-    parts.append("      }")
-    parts.append("      .cur {")
-    parts.append(f"        fill: {CURSOR};")
-    parts.append("        opacity: 0;")
-    parts.append("        transform-box: fill-box;")
-    parts.append("        transform-origin: left center;")
-    parts.append(f"        animation: slide {DURATION}s {EASING} forwards;")
-    parts.append("      }")
-    parts.append("      @keyframes wipe {")
-    parts.append("        from { transform: scaleX(0); }")
-    parts.append("        to   { transform: scaleX(1); }")
-    parts.append("      }")
-    parts.append("      @keyframes slide {")
-    parts.append("        from { transform: translateX(0); opacity: 0; }")
-    parts.append("        10%  { opacity: 1; }")
-    parts.append(f"        to   {{ transform: translateX({text_w - CHAR_W:.1f}px); opacity: 1; }}")
-    parts.append("      }")
     parts.append("    </style>")
-    for i, row in enumerate(rows):
-        parts.append(f'    <clipPath id="cp{i}">')
-        parts.append(
-            f'      <rect class="wipe" x="{MARGIN:.1f}" y="{MARGIN + i * LINE_H:.1f}" '
-            f'width="{text_w:.1f}" height="{LINE_H:.1f}" '
-            f'style="animation-delay:{i * STAGGER:.2f}s" />'
-        )
-        parts.append("    </clipPath>")
     parts.append("  </defs>")
 
     parts.append(f'  <rect width="{view_w:.1f}" height="{view_h:.1f}" rx="14" fill="{BG}" />')
@@ -115,16 +92,44 @@ def build_svg(rows: list[str]) -> str:
     for i, row in enumerate(rows):
         top = MARGIN + i * LINE_H
         baseline = top + FONT_SIZE * 0.8
-        delay = f"{i * STAGGER:.2f}s"
+        begin = f"{i * STAGGER:.2f}s"
+
+        # 1) Full row text (static, always present).
         parts.append(
-            f'  <text class="ascii-row" x="{MARGIN:.1f}" y="{baseline:.1f}" '
-            f'clip-path="url(#cp{i})">{row}</text>'
+            f'  <text class="ascii-row" x="{MARGIN:.1f}" y="{baseline:.1f}">{row}</text>'
+        )
+        if static:
+            continue
+
+        # 2) Curtain: background-colored rect covering the row. Its x moves
+        #    left -> right via SMIL, exposing the text underneath.
+        curtain_x = f'{MARGIN + text_w:.1f}' if static else f'{MARGIN:.1f}'
+        parts.append(
+            f'  <rect x="{curtain_x}" y="{top:.1f}" width="{text_w:.1f}" '
+            f'height="{LINE_H:.1f}" fill="{BG}">'
         )
         parts.append(
-            f'  <rect class="cur" x="{MARGIN:.1f}" y="{top + 1:.1f}" '
-            f'width="{CHAR_W:.1f}" height="{LINE_H - 2:.1f}" rx="1" '
-            f'style="animation-delay:{delay}" />'
+            f'    <animate attributeName="x" '
+            f'from="{MARGIN:.1f}" to="{MARGIN + text_w:.1f}" '
+            f'begin="{begin}" dur="{DURATION}s" fill="freeze" />'
         )
+        parts.append("  </rect>")
+
+        # 3) Cursor block riding the reveal edge.
+        parts.append(
+            f'  <rect x="{MARGIN - CHAR_W:.1f}" y="{top + 1:.1f}" '
+            f'width="{CHAR_W:.1f}" height="{LINE_H - 2:.1f}" rx="1" fill="{CURSOR}">'
+        )
+        parts.append(
+            f'    <animate attributeName="x" '
+            f'from="{MARGIN - CHAR_W:.1f}" to="{MARGIN + text_w - CHAR_W:.1f}" '
+            f'begin="{begin}" dur="{DURATION}s" fill="freeze" />'
+        )
+        parts.append(
+            f'    <animate attributeName="opacity" from="0" to="1" '
+            f'begin="{begin}" dur="0.05s" fill="freeze" />'
+        )
+        parts.append("  </rect>")
 
     parts.append("</svg>")
     return "\n".join(parts)
@@ -132,13 +137,14 @@ def build_svg(rows: list[str]) -> str:
 
 def main() -> None:
     rows = image_to_rows(SRC, COLS)
-    svg = build_svg(rows)
+    static = os.environ.get("STATIC") == "1"
+    svg = build_svg(rows, static=static)
     with open(OUT, "w", encoding="utf-8") as fh:
         fh.write(svg + "\n")
 
-    # Trim trailing whitespace-only rows so the box hugs the artwork.
     xml.dom.minidom.parse(OUT)
-    print(f"wrote {OUT} ({COLS}x{len(rows)} chars)")
+    print(f"wrote {OUT} ({COLS}x{len(rows)} chars)"
+          + (" (static frame)" if static else ""))
 
 
 if __name__ == "__main__":
