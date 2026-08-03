@@ -35,7 +35,7 @@ STAGGER = 0.15
 EASING = "cubic-bezier(0.22,1,0.36,1)"
 
 ROWS = [
-    ("User:", "luisdiaz04"),
+    ("User:", "luis50019"),
     ("Name:", "Luis \u00c1ngel D\u00edaz D\u00edaz"),
     ("Role:", "Software Engineer \u00b7 Full-Stack"),
     ("Location:", "Oaxaca, Mexico"),

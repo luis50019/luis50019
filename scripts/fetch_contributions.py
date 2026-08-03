@@ -23,7 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 OUT = os.path.join(ROOT, "data", "contributions.json")
 
-DEFAULT_USER = "luisdiaz04"
+DEFAULT_USER = "luis50019"
 URL = "https://github.com/users/{user}/contributions"
 HEADERS = {
     "User-Agent": (

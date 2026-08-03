@@ -24,18 +24,18 @@
 <a href="mailto:luisangel@example.com">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
 </a>
-<a href="https://github.com/luisdiaz04">
+<a href="https://github.com/luis50019">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=luisdiaz04&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
-<a href="https://github.com/luisdiaz04?tab=followers">
-  <img src="https://img.shields.io/github/followers/luisdiaz04?label=FOLLOWERS&style=flat-square&color=2563EB&labelColor=111827" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=luis50019&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/luis50019?tab=followers">
+  <img src="https://img.shields.io/github/followers/luis50019?label=FOLLOWERS&style=flat-square&color=2563EB&labelColor=111827" alt="GitHub Followers" />
 </a>
-<a href="https://github.com/luisdiaz04?tab=repositories">
-  <img src="https://img.shields.io/github/stars/luisdiaz04?affiliations=OWNER&label=STARS&style=flat-square&color=3B82F6&labelColor=111827" alt="GitHub Stars" />
+<a href="https://github.com/luis50019?tab=repositories">
+  <img src="https://img.shields.io/github/stars/luis50019?affiliations=OWNER&label=STARS&style=flat-square&color=3B82F6&labelColor=111827" alt="GitHub Stars" />
 </a>
 
 </div>
@@ -182,7 +182,7 @@ A full-stack inventory and sales system built to improve product control, stock 
 | **Performance** | Efficient API queries and client-side state management |
 | **Security** | JWT authentication, protected routes, password hashing, and role-aware access |
 | **Impact** | Improves inventory accuracy and reduces manual administrative work |
-| **Repository** | [View Repository](https://github.com/luisdiaz04) |
+| **Repository** | [View Repository](https://github.com/luis50019) |
 
 **Engineering Focus:** REST API design, inventory lifecycle management, authentication, analytics dashboards, and responsive user experience.
 
@@ -202,7 +202,7 @@ A modern real-estate web platform focused on property discovery, structured list
 | **Performance** | Static-first rendering and optimized frontend delivery |
 | **Security** | Minimal attack surface through static architecture and controlled integrations |
 | **Impact** | Improves property visibility and provides a streamlined discovery experience |
-| **Repository** | [View Repository](https://github.com/luisdiaz04) |
+| **Repository** | [View Repository](https://github.com/luis50019) |
 
 **Engineering Focus:** Performance-first frontend architecture, SEO, reusable components, responsive design, and content organization.
 
@@ -222,7 +222,7 @@ A containerized web application used to explore reproducible deployments, Kubern
 | **Performance** | Lightweight container image and efficient static delivery |
 | **Security** | Isolated workloads and controlled service exposure |
 | **Impact** | Demonstrates practical container orchestration and deployment automation |
-| **Repository** | [View Repository](https://github.com/luisdiaz04) |
+| **Repository** | [View Repository](https://github.com/luis50019) |
 
 **Engineering Focus:** Docker image design, Kubernetes deployments, services, ingress configuration, and environment reproducibility.
 
@@ -294,13 +294,13 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisdiaz04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis50019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdiaz04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis50019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=luisdiaz04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=luis50019&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -310,7 +310,7 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=luisdiaz04&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=luis50019&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
