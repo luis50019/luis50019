@@ -3,6 +3,20 @@
 <h3><code>luis@github ~ $ ./contributions.sh</code></h3>
 <img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis50019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis50019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=luis50019&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
 <br><br>
 
 <h3><code>luis@github ~ $ whoami</code></h3>
@@ -12,52 +26,6 @@
     <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Info card" /></td>
   </tr>
 </table>
-
-<br><br>
-
-<a href="https://luisdiaz.dev">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=60A5FA" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/luis-angel-diaz-diaz">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" />
-</a>
-<a href="mailto:luisangel@example.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
-</a>
-<a href="https://github.com/luis50019">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=luis50019&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
-<a href="https://github.com/luis50019?tab=followers">
-  <img src="https://img.shields.io/github/followers/luis50019?label=FOLLOWERS&style=flat-square&color=2563EB&labelColor=111827" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/luis50019?tab=repositories">
-  <img src="https://img.shields.io/github/stars/luis50019?affiliations=OWNER&label=STARS&style=flat-square&color=3B82F6&labelColor=111827" alt="GitHub Stars" />
-</a>
-
-</div>
-
-
----
-
-## About
-
-I am a software engineer focused on designing and delivering scalable, maintainable, and production-oriented applications. My work spans **full-stack development, backend architecture, DevOps practices, and database design**.
-
-I approach engineering as a product discipline: understanding requirements, modeling reliable systems, making thoughtful technical trade-offs, and delivering solutions that provide measurable value. I enjoy working across the complete software lifecycle — from architecture and implementation to deployment, observability, security, and continuous improvement.
-
-My technical interests include **containerized applications, Kubernetes, cloud infrastructure, machine learning integration, and developer experience**. I value clean architecture, strong typing, automation, testing, documentation, and pragmatic engineering decisions.
-
-### Open To
-
-- Software Engineering and Full-Stack Development opportunities
-- Backend, Platform, Cloud, and DevOps engineering roles
-- High-impact engineering teams building scalable products
-
----
 
 ## Tech Stack
 
@@ -86,6 +54,22 @@ My technical interests include **containerized applications, Kubernetes, cloud i
 </p>
 
 ---
+
+## About
+
+I am a software engineer focused on designing and delivering scalable, maintainable, and production-oriented applications. My work spans **full-stack development, backend architecture, DevOps practices, and database design**.
+
+I approach engineering as a product discipline: understanding requirements, modeling reliable systems, making thoughtful technical trade-offs, and delivering solutions that provide measurable value. I enjoy working across the complete software lifecycle — from architecture and implementation to deployment, observability, security, and continuous improvement.
+
+My technical interests include **containerized applications, Kubernetes, cloud infrastructure, machine learning integration, and developer experience**. I value clean architecture, strong typing, automation, testing, documentation, and pragmatic engineering decisions.
+
+### Open To
+
+- Software Engineering and Full-Stack Development opportunities
+- Backend, Platform, Cloud, and DevOps engineering roles
+- High-impact engineering teams building scalable products
+
+
 
 ---
 
@@ -191,79 +175,6 @@ Designing and delivering full-stack applications with a focus on scalable archit
 
 </div>
 
----
 
-## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-2563EB?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
-</p>
 
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=3B82F6" alt="LeetCode" />
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis50019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis50019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=luis50019&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luis50019&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced system design
-  - Kubernetes and platform engineering
-  - Distributed systems
-
-Building:
-  - Scalable full-stack applications
-  - Secure backend services
-  - Cloud-ready deployment workflows
-
-Exploring:
-  - MLOps foundations
-  - Developer tooling and automation
-
-Open_To:
-  - Software engineering opportunities
-  - Full-stack and backend roles
-  - Cloud and DevOps engineering
-  - Open-source collaboration
-  - High-impact product teams
-```
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:0B1020&height=120&section=footer" />
-</div>
