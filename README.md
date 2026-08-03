@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <h3><code>luis@github ~ $ ./contributions.sh</code></h3>
 <img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
