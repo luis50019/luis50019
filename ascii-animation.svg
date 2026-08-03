@@ -1,0 +1,73 @@
+<svg viewBox="0 0 301 292" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, Consolas, monospace">
+  <defs>
+    <style>
+      .bg { fill: #0B1020; }
+      .frame { fill: none; stroke: #1E3A8A; stroke-width: 2; rx: 10; }
+      .dot { opacity: 0.9; }
+      .ascii-row {
+        fill: #60A5FA;
+        font-size: 6.2px;
+        white-space: pre;
+        opacity: 0;
+        animation: reveal 0.05s ease-out forwards;
+      }
+      .cursor {
+        fill: #93C5FD;
+        animation: blink 0.9s steps(1) infinite;
+      }
+      @keyframes reveal {
+        to { opacity: 1; }
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+      .title {
+        fill: #93C5FD;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="301" height="292" rx="14"/>
+  <rect class="frame" x="3" y="3" width="295" height="286" rx="12"/>
+  <circle class="dot" cx="20" cy="20" r="4" fill="#EF4444"/>
+  <circle class="dot" cx="34" cy="20" r="4" fill="#F59E0B"/>
+  <circle class="dot" cx="48" cy="20" r="4" fill="#22C55E"/>
+  <text class="title" x="151" y="24" text-anchor="middle">astronaut.ascii</text>
+  <text class="ascii-row" x="20" y="44.0" style="animation-delay:0.00s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="51.1" style="animation-delay:0.06s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="58.3" style="animation-delay:0.12s">@@@@@@@@@@@@@@@@@@@@.@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="65.4" style="animation-delay:0.18s">@@@@@@@@@@@@@@@@@@@@@@@*:.:@@@@@@@@@@+@@@@@:@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="72.5" style="animation-delay:0.24s">@@@@@@@@@@@@*@@@@*@@=-=@------::@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="79.7" style="animation-delay:0.30s">@@@@@@@@:@@+@@@%@@-------@-----.-:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="86.8" style="animation-delay:0.36s">@@@@@@@@@@@@@@@@@---------@-----=-.@@@@@@@@@@@-.@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="93.9" style="animation-delay:0.42s">@@@@@@@@@@@@@@=@@+:---#%.:@@@@@@@%@@@@@@@@@@@@@@@*-.@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="101.0" style="animation-delay:0.48s">@@@@@@@@@@@@@@+@**=*-+:@@@@@@@@@@.#%@:@@@@@@@+:@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="108.2" style="animation-delay:0.55s">@@@@@@@@@@@@@@*%%@@--@@@@@@..@@@@.@@@@@@@@+=@@@@@@@@@-@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="115.3" style="animation-delay:0.61s">@@@@@@@@@@@@%@@#@@*--#.     @@@@*.*@@@@*.@@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="122.4" style="animation-delay:0.67s">@@@@@@@@@@@**@*@=@@#+%:.    .@@@.%@@@+.@@@@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="129.6" style="animation-delay:0.73s">@@@@@@@@@@@=++*@@@+%*@@#*%#=@@%*-@@*:@@@@@@@@@@@@@@@@@@@@-@@@:@@@@@@</text>
+  <text class="ascii-row" x="20" y="136.7" style="animation-delay:0.79s">@@@@@@@@@@@+++*@*@+--%*@@+==--**@:+-@@@@@@@@@+@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="143.8" style="animation-delay:0.85s">@@@@@@@@@@@*++@@@+===%-++*-+@=+**-@@@@@@@@@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="150.9" style="animation-delay:0.91s">@@@@@@#*@@@@@@@@#+=+--:=@@=-@+#*.#.#@@@@+@@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="158.1" style="animation-delay:0.97s">@@@@@@@@@@@@=:@@=#*=-----:@@@=----:+-@@@@@@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="165.2" style="animation-delay:1.03s">@@@@@@@:@@@@##.=@@@@@+-=#@*#--*++-.@-@@@@@@@@%@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="172.3" style="animation-delay:1.09s">@@@@@@@@@@@@@@#@@*:+@@@=*=#@*-@+-++-.@--@@@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="179.5" style="animation-delay:1.15s">@@@@@@@@@@@@@@@*@@@*+*-++*+@--..@#---.#@++@@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="186.6" style="animation-delay:1.21s">@@@@@@*@@@@@@@@+=*@+@=*+++#**-.+@+***.#-@-*@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="193.7" style="animation-delay:1.27s">@@@@@@@@@@@+@@-----@@%*@*+---:..@-----@#+@.@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="200.9" style="animation-delay:1.33s">@@@@@@@@@@#@@-----#+**-@**-----:@+----.@---@@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="208.0" style="animation-delay:1.39s">@@@@@@@.@=@@------------@@+---+#-@@@*.@--#+*@@@@@@@@@+@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="215.1" style="animation-delay:1.45s">@@@@@@@@#@=++----#*@@=--=#@+-:-=@@%++=:+--**@@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="222.2" style="animation-delay:1.52s">@@@@@@@@=@@++---*++++@=--@@++-=%+@@@=*:.@*---@@@@@@@@@@@@-@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="229.4" style="animation-delay:1.58s">@@@@@@@@+@@-@-=--#++@=---@@++@#--++@@#---.#--@@@@@@@@@=@--.%:@@@@@@@</text>
+  <text class="ascii-row" x="20" y="236.5" style="animation-delay:1.64s">@@@@@@@@@@*+%-------------%%+@+----.@*----.@*@@@@@@@%@@-------.@@@@@</text>
+  <text class="ascii-row" x="20" y="243.6" style="animation-delay:1.70s">@@@@@+@*@+#=@@-------*++@@+=@++---:+@#@@#+-@@%@@@@@=@@%@----**-.@@@@</text>
+  <text class="ascii-row" x="20" y="250.8" style="animation-delay:1.76s">@@@@@@##@@*%@@@#----=+++@=--@++---.@@@@@@@#*@@@@@#@@=@@@----=:.@@@@@</text>
+  <text class="ascii-row" x="20" y="257.9" style="animation-delay:1.82s">@@@@@@@@@@@+##@@@@@@@@@@@@@@@@@@@@@@@@@%#@@@@@@@@@##@*%#%%%%%%@#@@@@</text>
+  <text class="ascii-row" x="20" y="265.0" style="animation-delay:1.88s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="272.2" style="animation-delay:1.94s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text class="ascii-row" x="20" y="279.3" style="animation-delay:2.00s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <rect class="cursor" x="20" y="278.4" width="7" height="9" style="animation-delay:2.20s"/>
+</svg>
