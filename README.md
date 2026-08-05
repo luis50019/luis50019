@@ -1,77 +1,63 @@
+<img src="https://img.shields.io/badge/luisadiaz%2FREADME.md-1a1b27?style=flat-square&logo=github&logoColor=white" />
 
-<h3><code>luis@github ~ $ whoami</code></h3>
+<h1 align="center">Hi 👋, I'm Luis Ángel</h1>
+<h3 align="center">A passionate Full Stack Developer from México</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luis50019&style=flat-square&color=blue&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/luis50019?style=flat-square&label=FOLLOWERS&logo=github&color=555" />
+  <img src="https://img.shields.io/github/stars/luis50019?style=flat-square&label=STARS&logo=github&color=blue" />
+  <a href="https://github.com/luis50019"><img src="https://img.shields.io/badge/FOLLOW-%40luis50019-1DA1F2?style=flat-square&logo=x" /></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
 <table>
-  <tr>
-    <td valign="top"><img src="./assets/astronaut-ascii.svg" width="370" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Info card" /></td>
-  </tr>
+<tr>
+<td width="60%">
+
+- 🌎 I'm from **México**
+- 💻 I'm a **Full Stack Developer**
+- 🌱 I'm currently learning **DevOps**
+- 📄 LinkedIn: [Luis Ángel Díaz Díaz](#https://www.linkedin.com/in/luis-angel-diaz-diaz-8533943b1/)
+- 📬 Reach me at: [teddiazdiaz019@gmail.com](#)
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</td>
+</tr>
 </table>
 
+---
 
+### 🔗 Connect With Me
 
-## GitHub Analytics
-<div style="display:flex; align-items:flex-start; gap:24px;">
+<p align="left">
 
- 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/luis50019/luis50019/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/luis50019/luis50019/pacman-output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/luis50019/luis50019/pacman-output/pacman-contribution-graph.svg"
-      alt="Pacman contribution graph"
-    />
-  </picture>
-</div>
-
-<br><br>
-
-## Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c#,css,php,sql,bash&theme=dark" alt="Languages" />
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://dev.to/luis50019"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
-### Frontend
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind,vite&theme=dark" alt="Frontend Technologies" />
+### 🛠️ Languages And Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,dart,react,nodejs,express,nestjs" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,linux,vscode,vercel" />
 </p>
 
-### Backend & Databases
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,postgres,mysql,mongodb,prisma&theme=dark" alt="Backend and Databases" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis50019&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis50019&theme=github_dark" />
 </p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,nginx,vercel,postman&theme=dark" alt="Cloud DevOps and Tooling" />
-</p>
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **Interledger Student Hackathon — Oaxaca** | Participated in collaborative software development and innovation activities focused on real-world technology solutions |
-| **Full-Stack Engineering Portfolio** | Built and deployed projects spanning inventory systems, SaaS architecture, streaming platforms, real-estate applications, and cloud-native workloads |
-| **Cloud-Native Engineering Practice** | Developed hands-on experience with Docker, Kubernetes, container networking, services, ingress, and reproducible deployments |
-| **Open-Source Collaboration** | Contributed to collaborative repositories through Git workflows, pull requests, code review, and technical documentation |
-| **Continuous Technical Growth** | Expanded expertise across backend systems, databases, DevOps, cloud infrastructure, AI integration, and modern frontend engineering |
-
-</div>
-
-
-
-
