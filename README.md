@@ -12,10 +12,23 @@
 ## GitHub Analytics
 <div style="display:flex; align-items:flex-start; gap:24px;">
 
-  <div>
-    <h3><code>./contributions.sh</code></h3>
-    <img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
-  </div>
+ 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/luis50019/luis50019/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/luis50019/luis50019/pacman-output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/luis50019/luis50019/pacman-output/pacman-contribution-graph.svg"
+      alt="Pacman contribution graph"
+    />
+  </picture>
+</div>
 
 <br><br>
 
