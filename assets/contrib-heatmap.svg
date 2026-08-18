@@ -382,12 +382,13 @@
   <rect class="cell" x="823.5" y="144.0" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.784s" />
   <rect class="cell" x="823.5" y="160.0" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.798s" />
   <rect class="cell" x="839.5" y="64.0" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.728s" />
-  <rect class="cell" x="839.5" y="80.0" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.742s" />
+  <rect class="cell" x="839.5" y="80.0" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.742s" />
+  <rect class="cell" x="839.5" y="96.0" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.756s" />
   <text x="741.5" y="191.0" text-anchor="end" font-size="11" fill="#8B9DC3">Less</text>
   <rect x="751.5" y="183.0" width="13" height="13" rx="3" fill="#0e4429" />
   <rect x="767.5" y="183.0" width="13" height="13" rx="3" fill="#006d32" />
   <rect x="783.5" y="183.0" width="13" height="13" rx="3" fill="#26a641" />
   <rect x="799.5" y="183.0" width="13" height="13" rx="3" fill="#39d353" />
   <text x="822.5" y="191.0" font-size="11" fill="#8B9DC3">More</text>
-  <text x="430" y="217.0" text-anchor="middle" font-size="13" fill="#E2E8F0">133 contributions in the last year</text>
+  <text x="430" y="217.0" text-anchor="middle" font-size="13" fill="#E2E8F0">134 contributions in the last year</text>
 </svg>
