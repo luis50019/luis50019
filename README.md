@@ -20,7 +20,7 @@
 
 - 🌎 I'm from **México**
 - 💻 I'm a **Full Stack Developer**
-- * 🌱 I'm currently **building and improving CI/CD pipelines and cloud-native infrastructure**
+- 🌱 I'm currently **building and improving CI/CD pipelines and cloud-native infrastructure**
 * ⚙️ I'm focused on **DevOps, containerization, CI/CD, Kubernetes and Linux infrastructure**
 - 📄 LinkedIn: [Luis Ángel Díaz Díaz](#https://www.linkedin.com/in/luis-angel-diaz-diaz-8533943b1/)
 - 📬 Reach me at: [teddiazdiaz019@gmail.com](#)
