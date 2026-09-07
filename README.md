@@ -46,7 +46,6 @@
 </p>
 
 ---
----
 
 ### ⚙️ DevOps & Infrastructure
 
@@ -60,12 +59,12 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 #### 🚀 CI/CD
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github" />
 </p>
 
 - Jenkins Pipelines
@@ -73,16 +72,16 @@
 - Automated builds & tests
 - Docker image builds
 - Container registries
-- CI/CD workflow design
+- CI/CD workflows
 - Deployment automation
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-#### 🐳 Containers & Orchestration
+#### 🐳 Containers
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
@@ -98,15 +97,11 @@
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 #### 🖥️ Linux & Servers
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
@@ -122,11 +117,15 @@
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+
+<td width="33.33%" valign="top">
 
 #### 🌐 Networking
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
@@ -136,20 +135,16 @@
 - Docker networking
 - Port mapping
 - DNS
-- Service-to-service connectivity
+- Service connectivity
 - Network troubleshooting
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 #### ☁️ Infrastructure & Deployment
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
@@ -163,11 +158,11 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 #### 📊 Observability
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
@@ -185,7 +180,14 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-1a1b27?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-1a1b27?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=white" />
+</p>
 
 ### 💻 Programming Languages
 
