@@ -46,66 +46,79 @@
 </p>
 
 ---
+---
+
 ### ⚙️ DevOps & Infrastructure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-1a1b27?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVOPS-1a1b27?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-1a1b27?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-1a1b27?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-1a1b27?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTAINERS-1a1b27?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-1a1b27?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 #### 🚀 CI/CD
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,docker" />
+</p>
 
-* Jenkins Pipelines
-* GitHub Webhooks
-* Automated builds & tests
-* Docker image builds
-* Container registries
-* CI/CD workflow design
+- Jenkins Pipelines
+- GitHub Webhooks
+- Automated builds & tests
+- Docker image builds
+- Container registries
+- CI/CD workflow design
+- Deployment automation
 
 </td>
 
 <td width="50%" valign="top">
 
-#### 🐳 Containers
+#### 🐳 Containers & Orchestration
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
 
-* Docker & Docker Compose
-* Production containers
-* Multi-container applications
-* Docker networks
-* Volumes & persistence
-* Container health checks
-* Kubernetes / k3s
-* CRDs & Operators
+- Docker & Docker Compose
+- Production containers
+- Multi-container applications
+- Docker networks
+- Volumes & persistence
+- Container health checks
+- Kubernetes / k3s
+- CRDs & Operators
+- Kubebuilder / Go
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 #### 🖥️ Linux & Servers
 
-<img src="https://skillicons.dev/icons?i=linux,bash" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
 
-* Linux server administration
-* SSH
-* Users & groups
-* File permissions
-* System services
-* Docker Engine
-* Firewall configuration
-* `iptables`
-* Server troubleshooting
+- Linux server administration
+- SSH
+- Users & groups
+- File permissions
+- System services
+- Docker Engine
+- Firewall configuration
+- `iptables`
+- Server troubleshooting
 
 </td>
 
@@ -113,34 +126,40 @@
 
 #### 🌐 Networking
 
-<img src="https://skillicons.dev/icons?i=cloudflare" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
 
-* Cloudflare Tunnel
-* `cloudflared`
-* Tailscale
-* Docker networking
-* Port mapping
-* DNS
-* Service-to-service connectivity
-* Network troubleshooting
+- Cloudflare Tunnel
+- `cloudflared`
+- Tailscale
+- Docker networking
+- Port mapping
+- DNS
+- Service-to-service connectivity
+- Network troubleshooting
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 #### ☁️ Infrastructure & Deployment
 
-<img src="https://skillicons.dev/icons?i=docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
 
-* Coolify
-* Self-hosted infrastructure
-* Docker-based deployments
-* Environment variables
-* Secrets management
-* Deployment troubleshooting
-* Production environments
+- Coolify
+- Self-hosted infrastructure
+- Docker-based deployments
+- Environment variables
+- Secrets management
+- Production environments
+- Deployment troubleshooting
 
 </td>
 
@@ -148,28 +167,59 @@
 
 #### 📊 Observability
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
 **Currently learning**
 
-* Prometheus
-* Grafana
-* Metrics
-* Dashboards
-* Monitoring
-* Alerting
+- Prometheus
+- Grafana
+- Metrics
+- Dashboards
+- Monitoring
+- Alerting
 
 </td>
+
 </tr>
 </table>
 
+---
+
+### 💻 Programming Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-1a1b27?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-1a1b27?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,go,java,cs,dart,bash" />
+</p>
+
+---
+
+### 🧩 Frameworks & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,vite,nodejs,express,nestjs,tailwind" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+---
+
+### 🌍 APIs & Services
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=googlemaps,cloudflare,vercel,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-1a1b27?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Services-1a1b27?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 ---
