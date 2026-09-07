@@ -43,15 +43,77 @@
 </p>
 
 ---
+### ⚙️ DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,bash,git" />
+</p>
+
+#### 🚀 CI/CD
+
+* **Jenkins** — Pipelines, webhooks, GitHub integration and automated builds
+* **GitHub Actions** — CI workflows and automated testing
+* **Docker** — Containerization, Dockerfiles, Docker Compose and multi-container applications
+* **Docker Hub** — Container image registry and versioned image distribution
+* **Git** — Branching, pull requests, merges and deployment workflows
+
+#### ☸️ Containers & Orchestration
+
+* **Docker Compose** — Development and production environments
+* **Kubernetes** — Pods, Services, Nodes, Scheduling, Taints and CRDs
+* **k3s** — Lightweight Kubernetes clusters
+* **Kubebuilder / Go** — Kubernetes Operators and custom resources
+
+#### 🖥️ Linux & Server Administration
+
+* **Linux server administration**
+* **SSH**
+* **Docker Engine**
+* **Users, groups and file permissions**
+* **System services**
+* **Firewall configuration with iptables**
+* **Persistent firewall rules**
+
+#### 🌐 Networking & Remote Access
+
+* **Cloudflare Tunnel / cloudflared**
+* **Tailscale**
+* **Docker networks**
+* **Port mapping and service connectivity**
+* **DNS and reverse-proxy concepts**
+* **Network troubleshooting**
+
+#### 🏗️ Infrastructure & Deployment
+
+* **Coolify** — Self-hosted application deployment and management
+* **Docker-based production environments**
+* **Environment variables and secrets**
+* **Container health checks**
+* **Application deployment and troubleshooting**
+* **Self-hosted infrastructure**
+
+#### 📊 Observability
+
+> 🔄 Currently learning
+
+* **Prometheus**
+* **Grafana**
+* **Application metrics**
+* **Dashboards and monitoring**
+* **Alerting**
+
+---
 
 ### 🛠️ Languages And Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,dart,react,nodejs,express,nestjs" />
 </p>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,linux,vscode,vercel,jenkins" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,vscode,vercel,jenkins,linux" />
 </p>
+
 
 ---
 
