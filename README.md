@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,dart,react,nodejs,express,nestjs" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,linux,vscode,vercel,jenkins,coolify,actions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,linux,vscode,vercel,jenkins" />
 </p>
 
 ---
