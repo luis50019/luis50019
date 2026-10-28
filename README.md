@@ -25,11 +25,6 @@
 - 📄 LinkedIn: [Luis Ángel Díaz Díaz](#https://www.linkedin.com/in/luis-angel-diaz-diaz-8533943b1/)
 - 📬 Reach me at: [teddiazdiaz019@gmail.com](#)
 
-
-
-</td>
-<td width="40%">
-  <img src="./assets/astronaut-ascii.svg" width="370" alt="ASCII portrait" />
 </td>
 </tr>
 </table>
